@@ -1,12 +1,12 @@
 <h1>Hi There! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?color=red&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalesmaiaa/)](https://www.linkedin.com/in/thalesmaiaa/)
-[![Certifications](https://img.shields.io/badge/-Certifications-6633cc?color=red&style=flat-square&logo=Me&logoColor=white&link=https://www.credly.com/users/thalesmaiaa/badges#credly)]
+[![Certifications](https://img.shields.io/badge/-Certifications-6633cc?color=red&style=flat-square&logo=Me&logoColor=white&link=https://www.credly.com/users/thalesmaiaa/badges#credly)](https://www.credly.com/users/thalesmaiaa/badges#credly)
 
 
 
 ## My name is Thales Maia
-(Java | Spring Boot | AWS | SQL ) 🚀
+Java | Spring Boot | AWS | SQL 🚀
 - 👩‍💻 Software Enginner @[CompassUOL](https://compass.uol/en/home/)
 - 🎓   Bachelor's degree in Computer Science (ongoing ⌛)
 - 🌐 Passionate about web development
